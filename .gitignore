@@ -1,0 +1,9 @@
+# Secrets and machine-local settings
+.env*
+!.env.example
+# Kelda config file; holds the Kelda access token
+config.json
+# Kelda working directories, including the live folder
+kelda
+node_modules
+work
